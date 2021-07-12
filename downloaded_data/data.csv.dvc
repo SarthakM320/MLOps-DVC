@@ -1,0 +1,11 @@
+md5: 6bfa75416a1025f5d68697e73e622dab
+frozen: true
+deps:
+- path: data/data.csv
+  repo:
+    url: https://github.com/SarthakM320/MLOps-DVC
+    rev_lock: ad67ac269aa7851dceeb2347def88793e16f642b
+outs:
+- md5: 97edcee3524b1675ab68790ad35e80e9
+  size: 158375420
+  path: data.csv
